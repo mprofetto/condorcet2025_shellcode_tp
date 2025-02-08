@@ -64,6 +64,9 @@ Mettre en œuvre des techniques d’évasion pour éviter la détection par un a
 
 ![image](https://github.com/user-attachments/assets/e4fa0a89-673d-4bf4-8cc7-baa252379466)
 
+![image](https://github.com/user-attachments/assets/2167853e-fa4b-4807-9993-f92edce6632c)
+
+
 
 # Références:
 Cas Van Cooten
