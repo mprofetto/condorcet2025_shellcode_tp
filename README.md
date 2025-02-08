@@ -56,13 +56,12 @@ Exercice 2 : Création d'un injecteur de shellcode basique
 Obtenir un handle du processus cible
 
 # 3. Basic Antivirus Evasion
-Tentative de shellcode obfuscation grâce à la technique d'évasion:
+Tentative de shellcode grâce à la technique d'évasion:
 Eviter d'écrire directement dans le code mais plutôt de passer en argument le shellcode pour que l'antivirus ne détecte pas ce shellcode lors de l'analyse.
 
 Objectif :
 Mettre en œuvre des techniques d’évasion pour éviter la détection par un antivirus (AV) ou un système de détection et de réponse aux menaces (EDR).
 
-![image](https://github.com/user-attachments/assets/e4fa0a89-673d-4bf4-8cc7-baa252379466)
 
 ![image](https://github.com/user-attachments/assets/2167853e-fa4b-4807-9993-f92edce6632c)
 
